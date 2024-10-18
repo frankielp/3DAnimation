@@ -1,3 +1,1 @@
-# 3DAnimation
- 
-# 3DAnimation
+# 3D Visualization and Game Development - 3D Animation
